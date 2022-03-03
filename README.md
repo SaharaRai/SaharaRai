@@ -2,7 +2,9 @@
 <img alt="welcome" src="./banner_.jpeg" style="width: 940px; height: 355px;"/>  
 </div>
 
-# Hello 👋
+# ✨ About Me ✨
+
+I am a career changer software developer, currently at the end of my training at the School of Code, seeking to use my problem solving skills developed during my academic and teaching career and apply them working in a tech team.
 
 <!--
 **SaharaRai/SaharaRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
