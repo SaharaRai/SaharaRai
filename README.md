@@ -1,4 +1,8 @@
-### Hi there 👋
+<div style="width: 940px; height: 150px; overflow: hidden">
+<img alt="welcome" src="./banner.jpeg" style="width: 940px; height: 355px;"/>  
+</div>
+
+# Hello 👋
 
 <!--
 **SaharaRai/SaharaRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
