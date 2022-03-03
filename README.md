@@ -1,4 +1,4 @@
-<div style="width: 940px; height: 150px; overflow: hidden">
+<div style="width: 940px; height: 75 px; overflow: hidden">
 <img alt="welcome" src="./banner_.jpeg" style="width: 940px; height: 355px;"/>  
 </div>
 
