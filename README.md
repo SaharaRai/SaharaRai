@@ -1,5 +1,5 @@
 <div style="width: 940px; height: 150px; overflow: hidden">
-<img alt="welcome" src="./banner.jpeg" style="width: 940px; height: 355px;"/>  
+<img alt="welcome" src="./banner_.jpeg" style="width: 940px; height: 355px;"/>  
 </div>
 
 # Hello 👋
