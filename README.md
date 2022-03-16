@@ -3,8 +3,7 @@
 </div>
 
 # ✨ About Me ✨
-
-I am a career changer software developer, currently at the end of my training at the [School of Code](https://www.schoolofcode.co.uk/), seeking to use my problem solving skills developed during my academic and teaching career [(my Linkedin)](https://www.linkedin.com/in/sahararai/) and apply them working in a tech team.
+My previous background has been in biology, which has involved carrying out pilot research studies and teaching science at secondary school [(my Linkedin)](https://www.linkedin.com/in/sahararai/). Now as a software developer, having recently completed my training at the [School of Code](https://www.schoolofcode.co.uk/), I am enjoying using my logial and analytical skills in a creative way. 
 
 ## My Tools:
 
